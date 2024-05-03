@@ -1,4 +1,4 @@
-const BASEURL = "https://codemarathon-api.systems-group.org/api/";
+const BASEURL = "http://89.115.116.72:8000/api/";
 
 
 const SUBMISSION_STATUS = {
